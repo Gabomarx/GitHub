@@ -38,4 +38,33 @@ trabajando con la versión más reciente del proyecto.
 También, `git push` es un comando de Git, mientras que un **Pull Request** es una función propia 
 de GitHub, ambos sirven para administrar cambios colaborativos.😊
 
+##  🌿 Crear una rama nueva
 
+Antes de hacer cambios importantes, es recomendable trabajar en una rama (branch) distinta a la rama principal (main o master).
+
+```bash
+git checkout -b nombre-de-tu-rama
+```
+## 🛠️ Hacer cambios en esa rama
+Realiza las modificaciones necesarias en tu proyecto (añadir funciones, corregir errores, etc.) y guarda tus cambios.
+
+Luego, guarda esos cambios en el repositorio local:
+
+```bash
+git add .
+git commit -m "Descripción clara de los cambios"
+```
+
+## 🚀 Subir cambios al repositorio
+Después de confirmar tus cambios localmente, necesitas subirlos al repositorio remoto en GitHub:
+```bash
+git push origin nombre-de-tu-rama
+```
+## 🔃 Crear un Pull Request desde esa rama
+En GitHub, ve a tu repositorio y haz clic en el botón verde "Compare & pull request" que aparece cuando subes una rama nueva.
+1. *Elige la rama base (por lo general main) y la rama con tus cambios.
+2. *Agrega un título y una descripción explicando qué hiciste.
+3. *Haz clic en "Create pull request".
+
+## 💬 Comentar, revisar y aprobar o rechazar cambios
+Otros colaboradores pueden revisar tu PR, dejar comentarios, sugerencias o aprobar los cambios. Esto es clave para el trabajo en equipo. 🧠🤝
