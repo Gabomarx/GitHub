@@ -57,7 +57,7 @@ Su uso adecuado mejora la productividad y coordinación dentro del equipo de des
 
 ---
 
-## 🏷️ Asginar etiquetas (labels) y personas responsables
+## 🏷️ Asignar etiquetas (labels) y personas responsables
 ### Las etiquetas te ayudan a clasificar los Issues:
 | Etiqueta       | Signficado | 
 |---------------|----------------|
@@ -100,6 +100,22 @@ Los Issues solucionan esto al actuar como una **lista pública de tareas activas
 
 ---
 
+## 💬 Usando comentarios y menciones (@usuario)
+
+Los comentarios permiten que el equipo discuta detalles de cada Issue, den contexto adicional y sugieran soluciones. Se usan para:
+
+- Hacer preguntas o solicitar aclaraciones🤔
+- Proporcionar detalles sobre el problema🤓☝️
+- Mencionar (@usuario) a personas para que revisen el Issue🗣️
+- Adjuntar imágenes, códigos o enlaces relevantes🖼️
+
+### 👯‍♀️Para mencionar a alguien:  
+`@usuario` → Notifica al usuario sobre el comentario.
+
+![image](https://github.com/user-attachments/assets/d3dcf296-0160-4577-b19d-398989c07080)
+
+---
+
 ## 👥 Fomentan la responsabilidad compartida
 Cuando se asigna un Issue a alguien, se está dejando claro quién es el responsable directo, pero como los comentarios están abiertos, todo el equipo puede colaborar con sugerencias, preguntas o revisiones.
 
@@ -109,4 +125,68 @@ Esto crea un entorno de trabajo:
 - 💬 Más colaborativo
 - 🔄 Más controlado
 
-💡 "Los Issues no solo organizan tareas, sino que foementan la responsabilidad individual y el compromiso grupal. Su uso permite llevar un control claro del avance del proyecto sin depender de recordatorios informales."
+---
+## 🤖Automatización de Issues
+
+GitHub permite automatizar acciones en los Issues mediante GitHub Actions o automated workflows dentro de Projects!! Puedes:
+
+- *Mover Issues automáticamente* cuando se les asigne una etiqueta👻
+- *Cerrar Issues* cuando un PR con un *commit* de corrección se fusione (`Fixes #XX`)😶‍🌫️
+- *Notificar responsables* cuando un Issue esté pendiente por resolver☝️
+
+---
+
+## 💃Buenas prácticas en la gestión de Issues
+Un uso eficiente de Issues mejora la organización del equipo y facilita el trabajo colaborativo. Ayudándonos a ser más eficientes!!🦁
+
+Algunas buenas prácticas incluyen:
+
+### 📝Escribir títulos claros
+- ❌ _"Error en formulario"_ →  Demasiado general.  
+- ✅ _"El botón de envío no responde en Chrome"_ →  Más específico.
+
+### 🔖Usar etiquetas adecuadas
+- `bug` → Para errores en el código⛔
+- `enhancement` → Para propuestas de mejora🔂
+- `documentation` → Para cambios en la documentación✏️
+
+### 📅Asignar responsables y fechas límite
+- Agregar *Assignees* para asignar tareas a personas específicas🤫
+- Definir una fecha límite usando *GitHub Projects*⏱️
+ ---
+
+## 🏁Milestones en Issues
+
+Por último, introduciremos brevemente *Milestone* de GitHub que es una herramienta que nos puede servir para los Issues.
+
+### 📌¿Qué es un Milestone en GitHub?
+Un **Milestone** (hito) es una herramienta que permite agrupar varios Issues bajo un mismo objetivo o fecha de entrega⌛. Se usa para planificar versiones, sprints o metas dentro de un proyecto.
+
+### 🛠️¿Cómo crear un Milestone?
+1. Ir al repositorio → pestaña *Issues* → sección *Milestones*
+2. Hacer clic en *New Milestone*!
+3. Asignar un nombre, una descripción y una fecha límite😎
+4. Guardar y empezar a asignar Issues!!!
+
+### 🔗Vincular Issues a un Milestone
+Para agregar un Issue a un Milestone:
+1. Abre un **Issue**
+2. En el panel derecho, busca la sección **Milestone**
+3. Selecciona el hito al que pertenece el Issue
+
+Y listo!!! tienes tu **Issue** vinculado a tu *Milestone*😎😎
+
+### 🤩Beneficios de usar Milestones
+- Facilita la planificación de versiones o entregas🤫
+- Agrupa Issues que forman parte de una misma tarea👯‍♀️
+- Ayuda a visualizar el progreso del equipo🧐
+- Mejora la organización de proyectos grandes🤙
+
+---
+Para más info sobre los *Milestones* puedes hacer click [Aquí]([https://ruta-de-la-imagen.png](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)🥰
+
+
+Y recuerda!!
+
+💡 "Los Issues no solo organizan tareas, sino que fomentan la responsabilidad individual y el compromiso grupal. Su uso permite llevar un control claro del avance del proyecto sin depender de recordatorios informales."
+
