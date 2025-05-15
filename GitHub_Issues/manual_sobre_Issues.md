@@ -1,5 +1,7 @@
 ## 🧩 Introducción a Issues y su función
 
+![foto](issue.png)
+
 ### ❓ ¿Qué es un Issue?
 Un **Issue** en GitHub es una herramienta para reportar errores, sugerir mejoras o gestionar tareas dentro de un repositorio. 🛠️ Es una forma de comunicación estructurada entre los colaboradores de un proyecto.
 
