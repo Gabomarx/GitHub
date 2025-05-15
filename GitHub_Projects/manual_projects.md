@@ -72,7 +72,7 @@ El espacio general donde se agrupan los Issues y tableros. Aquí podemos:
 
 ---
 
-## 💡 Ejmplos reales en la gestión de proyectos
+## 💡 Ejemplos reales en la gestión de proyectos
 
 - ** 📌 Desarrollo de software**: Divide el trabajo, asigna tareas y sigue el avance de cada miembro
 - ** 📌 Roadmap de producto**: Planifica nuevas funciones y sigue su progreso hasta el lanzamiento.
