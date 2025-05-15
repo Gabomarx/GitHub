@@ -68,3 +68,59 @@ En GitHub, ve a tu repositorio y haz clic en el botón verde "Compare & pull req
 
 ## 💬 Comentar, revisar y aprobar o rechazar cambios
 Otros colaboradores pueden revisar tu PR, dejar comentarios, sugerencias o aprobar los cambios. Esto es clave para el trabajo en equipo. 🧠🤝
+
+## 🤝 Colaboración y resolución de conflictos en Pull Request
+
+### 👀 ¿Cómo revisar el código de otro miembro?
+
+Una de las grandes ventajas de los Pull Request es que permiten revisar el código de otros compañeros antes de que se mezcle con el proyecto prinicipal. Eso se puede hacer directamente desde GitHub:
+
+1. Abre el Pull Request.
+2. Lee los archivos modificados en la pestaña Files changed".
+3. Deja comentarios línea por línea si algo no se entiende o se puede mejoras.
+4. Usa reacciones (✅❌💬) para interactuar con los comentarios de otros.
+
+Así evitamos errores y aprendemos mutuamente💡.
+
+---
+
+### 💬 Usar comentarios en línea en un Pull Request
+
+GitHub permite escribir comentarios directamente sobre líneas de código específicas. Esto es bueno para:
+
+- 🛠️ Hacer sugerencias precisas.
+- 🤔 Preguntar por decisiones del código.
+- 📈 Proponer mejoras.
+
+Un comentario bien hecho puede evitar muchos problemas más adelante. Recordar siempre el ser claro, respetuoso y contructivo con tus compañeros.
+
+---
+
+### 🔥 Resolver conflictos de fusión (merge conflicts)
+
+A veces, dos personas editan el mismo archivo o línea de código. Cuando eso pasa, GitHub no sabe cuál versión mantener ¡y aparece un conflicto! 😱 
+
+### ¿Cómo resolverlo?
+
+1. GitHub te avisará que hay un conflicto.
+2. Debes ir al archivo en conflicto y ver algo como esto:
+
+![image](https://github.com/user-attachments/assets/ecffe4f5-69f5-418e-9391-993747c5960d)
+
+3. Elimina los maracadores <<<<<<<, ======= y >>>>>>>, y decide cuál versión conservar (o fusionar lo mejor de ambas).
+4. Guarda el archivo, haz un git add y luego un git commit.
+5. Por último, sube los cambios (git push) y listo.
+
+### ✅ Hacer el merge final al aprobar un Pull Request
+
+Cuando todo este revisado y aprobado:
+1. Se hace clic en "Merge pull request".
+2. Puedes elegir el tipo de merge (merge commit, squash, rebase).
+3. Finalmente, se borra la rama si ya no se necesita (opcional).
+
+🎉 ¡Y así los cambios pasan oficialmente a formar parte del proyecto!
+
+## 🧠 Refelexión final
+
+La colaboración en GitHub no solo se trata de escribir un buen código, **¡sino de trabajar en equipo!** Saber cómo revisar, comentar y resolver conflictos es tan importante como programar.
+Los Pull Request nos enseñan que el código mejora cuando muchas menten trabajan juntas. 🔄✨
