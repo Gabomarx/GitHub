@@ -182,6 +182,14 @@ Y listo!!! tienes tu **Issue** vinculado a tu *Milestone*😎😎
 - Ayuda a visualizar el progreso del equipo🧐
 - Mejora la organización de proyectos grandes🤙
 
+### 📊Seguimiento de Milestones
+GitHub permite ver el avance de un Milestone con:
+- *Cantidad de Issues abiertos/cerrados*🧐
+- *Porcentaje de progreso* de los Issues completados🤖
+- *Fecha límite* para saber si el equipo está cumpliendo el objetivo📌
+
+  ![image](https://github.com/user-attachments/assets/eb3e97a1-79e9-4c5a-adf2-3a67b20d5022)
+
 ---
 Para más info sobre los *Milestones* puedes hacer click [Aquí]([https://ruta-de-la-imagen.png](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)🥰
 
