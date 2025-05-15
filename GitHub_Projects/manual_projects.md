@@ -127,3 +127,59 @@ Al tener muchas personas en un proyecto, es bueno poder definir los permisos que
 - *Admin*: Puede administrar el repositorio y agregar más colaboradores😎
 
 Si quieres leer un tutorial más detallado sobre cómo agregar colaboradores, puedes consultar [Aquí](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) 🚀
+
+---
+## 📊 ¿Cómo hacer seguimiento al avance del equipo?
+Una vez creado el proyecto y asignadas las tareas, lo más importante es hacer seguimiento del progreso para asegurar que todo marche bien.
+
+GitHub Projects permite:
+- Ver el estado actual de cada tarea en tiempo real.
+- Identificar tareas bloqueadas o en retraso.
+- Hacer revisiones periódicas del tablero con el equipo.
+
+#### 🧠 Recomendación:
+Haz reuniones cortas cada semana (tipo daily o stand-up) para revisar juntos el tablero y actualizar el estado de las tareas.
+
+---
+## 🎯 Uso de filtros y prioridades
+Para no perderse entre muchas tareas, GitHub Projects permite aplicar filtros y asignar prioridades:
+- Filtrar por responsable 👤, por estado 📌 o por fecha límite 📆
+- Añadir campos personalizados como “Urgente 🔥”, “Media prioridad ⚠️”, “Baja prioridad 💤”
+- Agrupar tareas por categoría o por tipo de trabajo (por ejemplo: diseño, backend, documentación)
+Esto mejora la claridad y organización del trabajo en equipo.
+
+---
+## 🛠️ Resolver bloqueos y reorganizar tareas
+En todo proyecto puede haber imprevistos: tareas que se atrasan, errores, o bloqueos por dependencias.
+
+Cuando eso pasa:
+
+1. Revisa el estado de las tareas detenidas. 😕
+2. Habla con el responsable para entender el problema. 🤝
+3. Reasigna o divide la tarea si es necesario. 🔁
+4. Usa comentarios en los Issues para dejar notas del avance. 📝
+
+GitHub Projects ayuda a visualizar estos bloqueos y reorganizar tareas rápidamente sin perder el control del proyecto.
+
+---
+## ✅ Cierre del proyecto y evaluación final
+Al finalizar un proyecto:
+- Marca todas las tareas como completadas. ✅
+- Haz una última revisión general del tablero.
+- Cierra el proyecto desde la opción Archive project.
+
+También es útil tener una instancia de evaluación final:
+
+- ¿Se cumplieron los plazos?
+- ¿Qué funcionó bien?
+- ¿Qué se puede mejorar para la próxima vez?
+
+Reflexionar en equipo ayuda a mejorar continuamente.
+
+---
+## 🌟 Buenas prácticas de trabajo en equipo con GitHub Projects
+- Mantén siempre actualizado el estado de tus tareas.
+- Usa los comentarios para comunicar avances o dudas.
+- Revisa el tablero al menos una vez por semana.
+- Apoya a los compañeros que estén bloqueados.
+- Haz entregas pequeñas y constantes en lugar de todo al final.
