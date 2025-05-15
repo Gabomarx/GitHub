@@ -120,7 +120,7 @@ Cuando todo este revisado y aprobado:
 
 🎉 ¡Y así los cambios pasan oficialmente a formar parte del proyecto!
 
-## 🧠 Refelexión final
+## 🧠 Reflexión final
 
 La colaboración en GitHub no solo se trata de escribir un buen código, **¡sino de trabajar en equipo!** Saber cómo revisar, comentar y resolver conflictos es tan importante como programar.
 Los Pull Request nos enseñan que el código mejora cuando muchas menten trabajan juntas. 🔄✨
